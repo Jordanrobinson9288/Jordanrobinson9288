@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jordanrobinson9288
-- 👀 I’m interested in advancing my front-end development knowledge and practice. BTW, I'm a Sr. UX/UI Designer.
-- 🌱 I’m currently re-learning Bootstrap and general FE Code after a long pause.
-- 💞️ I’m looking to collaborate on learning GitHub and FE code. 
-- 🔮I see React.js in my future🔮.
+- 👀 I’m advancing my front-end development knowledge and practice. BTW, I'm also a Sr. UX/UI Designer of 10+ years.
+- 🌱 I love using Bootstrap and general FE Code to make my websites
+- 💞️ I’m getting the hang of GitHub, but I still have a lot to learn before I can claim to be comfortable with it.
+- 🔮 I see React.js in my future🔮.
 - 📫 How to reach me? DM me here or leave a comment with my tag.
 
 <!---
