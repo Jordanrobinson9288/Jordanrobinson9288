@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jordanrobinson9288
+- 📚 I'm a Sophomore at UAGC earning my Bachelor of Science in Computer Software Technology.
 - 👀 I’m advancing my front-end development knowledge and practice. BTW, I'm also a Sr. UX/UI Designer of 10+ years.
 - 🌱 I love using Bootstrap and general FE Code to make my websites
 - 💞️ I’m getting the hang of GitHub, but I still have a lot to learn before I can claim to be comfortable with it.
