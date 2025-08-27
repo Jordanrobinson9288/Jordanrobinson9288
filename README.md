@@ -1,38 +1,40 @@
-# Welcome to My Frontend Workshop 👋
+# Welcome to My Coding Journey 🚀
 
-**Sophomore in Computer Software Technology | Senior UX/UI Designer Transitioning to Development**
+Hi, I'm **Jordan Robinson**. For over a decade, I've been passionate about building user experiences as a **UX/UI Designer**. Now, I'm expanding my craft to the code that brings those experiences to life as an **Aspiring Full-Stack Developer**.
 
-Hello! I'm Jordan Robinson, a dedicated student at the University of Arizona Global Campus (UAGC) pursuing a **Bachelor of Science in Computer Software Technology**. I'm on a mission to bridge the gap between design and development.
+I believe great applications are born at the intersection of elegant design and robust code. My mission is to master Java and full-stack development to become a builder who understands the entire process, from pixel to pipeline.
 
-With over **a decade of experience as a Senior UX/UI Designer**, I possess a deep understanding of user-centric design principles, wireframing, and prototyping. Now, I'm building the technical skills to bring those designs to life with clean, efficient code. My unique perspective allows me to not only build functional websites but to engineer intuitive and engaging user experiences from the ground up.
+## 🧠 My Current Focus
 
-## 🛠️ Tech Stack & Interests
+I am currently enrolled in the **Amazon Career Choice Full-Stack Developer certificate program** on Coursera, building a comprehensive skill set in modern web development. My primary focus is mastering **Java programming** and its application in backend systems, while strengthening my front-end expertise.
 
-- **🌱 Currently Learning & Using:** I'm actively advancing my skills in front-end development, with a strong focus on **HTML5, CSS3, JavaScript,** and **Bootstrap** for rapid, responsive prototyping.
-- **🔮 On The Horizon:** I am excited to dive into modern front-end frameworks and see **React.js** in my near future as the next step in my learning journey.
-- **🎨 Design Foundation:** My work is informed by years of expertise in design tools like Figma, Adobe XD, and a user-first philosophy.
+**My Toolkit:**
+- **Backend Focus:** `Java`, `Object-Oriented Programming`, `Spring Boot`
+- **Web Fundamentals:** `JavaScript` | `HTML5` | `CSS3` | `SASS`
+- **Design Expertise:** `Figma` | `Adobe XD` | `User Research` | `Wireframing`
 
-## 📂 About This Repository
+## 🌟 Why My Background is an Asset
 
-This repo is my public learning lab—a collection of my front-end projects, code experiments, and practice exercises. Here, I apply the theoretical knowledge from my degree to practical, hands-on coding.
+My 10 years in design (2013-2023) mean I don't just write code; I architect solutions with a deep empathy for the end-user. I ask questions like:
+* "Is this interface intuitive?"
+* "How does this function impact the user's workflow?"
+* "Is this accessible and performant?"
 
-You'll find:
-- **Bootstrap-Powered Projects:** Demonstrating my ability to build responsive and modern layouts quickly.
-- **Frontend Code Snippets:** Exploring the fundamentals of HTML, CSS, and JavaScript.
-- **Learning Progress:** A timeline of my growth as I transition from a designer who understands code to a developer who speaks the language of design.
+I'm learning to translate the *'why'* behind a design into clean, functional, full-stack code.
 
-## 🎯 My Goal
+## 📂 About This Repo
 
-My aim is to become a proficient **Front-End Developer** with the rare ability to seamlessly collaborate with design teams or take a project from a wireframe to a fully functioning, polished web application. I believe that the best digital products are created when design and development are in harmony.
+This is my digital workshop. Here you'll find:
+- **Learning Projects:** Exercises and small apps built while mastering new concepts in Java and full-stack development.
+- **Code Experiments:** Sandboxes for testing ideas and exploring technologies from my certificate program.
+- **Future Portfolio Pieces:** As my skills grow, this will house more complex, deployed full-stack applications.
 
-## 📫 Let's Connect!
-
-I'm always open to discussing front-end development, design, collaboration on learning projects, or any opportunities to grow. Don't hesitate to reach out!
-
-- **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/jordan-d-robinson/)
-- **🎨 Design Portfolio:** [View my design work](https://uxbyjordan.com)
-- **💬 DM Me:** You can always DM me here on GitHub or leave a comment with my tag (`@Jordanrobinson9288`). I'm learning the ropes of this platform, so bear with me!
+## ✨ My Journey, So Far
+My tech career has been a coast-to-coast adventure! It began in the tech hubs of **Seattle, WA**, and took me through the vibrant scene of **Atlanta, GA**, followed by the growing market in **Brandon (Tampa), FL**. Originally from the Detroit, MI area, I've now brought my passion for building to the sunny desert of **Sun City, Arizona**. I'm excited to see where this next chapter in coding takes me!
 
 ---
 
-*"The best way to predict the future is to create it." – Abraham Lincoln*
+💡 **Let's talk about tech, design, or your next project!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-d-robinson/)
+[![View My Design Portfolio](https://img.shields.io/badge/View_My_Design_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://uxbyjordan.com)
